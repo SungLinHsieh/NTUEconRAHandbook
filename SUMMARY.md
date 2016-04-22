@@ -6,5 +6,5 @@
    * [帳務系統](reimburse-system.md)
    * [薪水](reimburse-salary.md)
    * [差旅費](reimburse-travelfee.md)
-   * [reimburse-stamp](reimburse-stamp.md)
+   * [蓋章](reimburse-stamp.md)
 
