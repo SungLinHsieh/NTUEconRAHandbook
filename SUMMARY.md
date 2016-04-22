@@ -9,5 +9,5 @@
    * [蓋章](reimburse-stamp.md)
 * [科技部計畫申請與結案](nscproject.md)
    * [申請](application.md)
-   * [close](close.md)
+   * [結案](close.md)
 
