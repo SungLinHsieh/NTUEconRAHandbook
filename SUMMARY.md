@@ -13,5 +13,5 @@
    * [結案](close.md)
 * [報聘](hiring.md)
    * [hiring-NSC](hiring-nsc.md)
-* [Exchange](exchange.md)
+* [公文交換](exchange.md)
 
