@@ -12,5 +12,5 @@
    * [申請](application.md)
    * [結案](close.md)
 * [報聘](hiring.md)
-   * hiring-NSC
+   * [hiring-NSC](hiring-nsc.md)
 
