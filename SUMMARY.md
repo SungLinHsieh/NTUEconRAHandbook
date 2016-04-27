@@ -8,7 +8,7 @@
    * [差旅費](reimburse-travelfee.md)
    * [蓋章](reimburse-stamp.md)
    * [流用變更](reimburse-change.md)
-   * [reimburse-sharing](reimburse-sharing.md)
+   * [支出分攤](reimburse-sharing.md)
 * [科技部計畫申請與結案](nscproject.md)
    * [申請](application.md)
    * [結案](close.md)
