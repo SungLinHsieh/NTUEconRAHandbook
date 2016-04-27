@@ -5,7 +5,7 @@
    * [帳務系統](reimburse-system.md)
    * [薪水](reimburse-salary.md)
    * [差旅費](reimburse-travelfee.md)
-       * [test](reimburse-travel-ex1.md)
+       * [簡單範例](reimburse-travel-ex1.md)
    * [蓋章](reimburse-stamp.md)
    * [流用變更](reimburse-change.md)
    * [支出分攤](reimburse-sharing.md)
