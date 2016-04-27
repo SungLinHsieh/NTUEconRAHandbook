@@ -6,7 +6,7 @@
    * [薪水](reimburse-salary.md)
    * [差旅費](reimburse-travelfee.md)
        * [簡單範例](reimburse-travel-ex1.md)
-       * [reimburse-travel-ex2](reimburse-travel-ex2.md)
+       * [多地點範例](reimburse-travel-ex2.md)
    * [蓋章](reimburse-stamp.md)
    * [流用變更](reimburse-change.md)
    * [支出分攤](reimburse-sharing.md)
