@@ -2,7 +2,7 @@
 
 * [本書簡介](README.md)
 * [報帳](reimburse.md)
-   * [帳務系統](reimburse-system.md)
+   * [帳務系統](reimburse/system.md)
    * [薪水](reimburse/salary.md)
    * [差旅費](reimburse-travelfee.md)
        * [簡單範例](reimburse-travel-ex1.md)
