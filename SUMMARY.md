@@ -8,7 +8,7 @@
        * [簡單範例](reimburse-travel-ex1.md)
        * [多地點範例](reimburse-travel-ex2.md)
    * [一般花費](reimnurse-general.md)
-   * [蓋章](reimburse-stamp.md)
+   * [蓋章](reimburse/stamp.md)
    * [流用變更](reimburse/change.md)
    * [支出分攤](reimburse/sharing.md)
 * [科技部計畫申請與結案](nscproject.md)
