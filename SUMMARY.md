@@ -9,6 +9,7 @@
        * [多地點範例](reimburse/travel.ex2.md)
    * [一般花費](reimburse/general.md)
        * [研討會學者餐費](reimburse/meals.md)
+       * 碳粉匣
    * [蓋章](reimburse/stamp.md)
    * [流用變更](reimburse/change.md)
    * [支出分攤](reimburse/sharing.md)
