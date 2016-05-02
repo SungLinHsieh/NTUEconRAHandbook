@@ -5,8 +5,4 @@
 本書還在初始階段，想要提供幫助的人可以[聯絡我](mailto:slohsieh@gmail.com)
 
 協作作者：
- [謝松霖](mailto:slohsieh@gmail.com)
- 蔣文心
- 陳宜均
- 周雅萱
- 何宗祐
+ [謝松霖](mailto:slohsieh@gmail.com) 蔣文心 陳宜均 周雅萱 何宗祐
