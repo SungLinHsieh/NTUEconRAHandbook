@@ -10,6 +10,7 @@
    * [一般花費](reimburse/general.md)
        * [研討會學者餐費](reimburse/meals.md)
        * [書籍](reimburse/book.md)
+       * 彈性支出
    * [財產](reimburse/property.md)
        * [碳粉匣](reimburse/TonerCartridge.md)
    * [蓋章](reimburse/stamp.md)
