@@ -11,7 +11,7 @@
        * [書籍](reimburse/book.md)
        * [彈性支出](reimburse/flexablespending.md)
        * [研討會學者餐費](reimburse/meals.md)
-       * 論文編修費
+       * [論文編修費](reimburse/thesis.correcting.spending.md)
    * [財產](reimburse/property.md)
        * [碳粉匣](reimburse/TonerCartridge.md)
    * [蓋章](reimburse/stamp.md)
