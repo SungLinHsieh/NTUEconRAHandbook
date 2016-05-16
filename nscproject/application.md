@@ -10,26 +10,26 @@
 ![](./figure/project_select.png)
 
 在此以最常申辦的專題研究計畫為例，點選[專題研究計畫]進入以下畫面：
-![](project_select2.png)
+![](./figure/project_select2.png)
 
 點選[一般研究計畫]進入以下畫面。
 確認個人資料是否正確，如需修改請按左上角[修改]，即可進入修改頁面；如資料正確則可直接點選[確定]。
-![](personal_info.png)
+![](./figure/personal_info.png)
 
 確定後進入下方頁面。
 點選左上角[新增]可建立新計畫；如欲修改尚未完成的申請，可直接點選狀態為暫存的計畫開始修改。
 
-![](create_a_new_one.png)
+![](./figure/create_a_new_one.png)
 
 按照步驟直接線上填寫
 1. 計畫基本資料表
-   ![](CM01.png)
+   ![](./figure/CM01.png)
 2. 表格設定
    除必填的資料，可依照需求勾選想要另外填寫的表格內容。之後可以隨時再回到表格設定，將勾選的內容取消。
-![](form.png)
+![](./figure/form.png)
 
 3. 按照所選取的表格線上登錄相關資料或將檔案上傳以完成表格
-![](form_fill.png)
+![](./figure/form_fill.png)
 4. 申請合併檔製作
    此功能可製作整份申請書之PDF合併檔，可留存供日後申請時作參考，當然也可以選擇不要製作。
    
