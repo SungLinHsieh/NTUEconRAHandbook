@@ -22,7 +22,7 @@
    * [申請](nscproject/application.md)
    * [結案](nscproject/close.md)
 * [報聘](hiring.md)
-   * [hiring-NSC](hiring-nsc.md)
+   * [hiring-NSC](hiring/nsc.md)
 * [公文交換](exchange/exchange.md)
 * [助理室電話使用手冊](phonehandhook.md)
 
