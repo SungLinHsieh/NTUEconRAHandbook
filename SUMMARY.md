@@ -2,7 +2,7 @@
 
 * [本書簡介](README.md)
 * [就任](freshmen/freshmen.md)
-* [報帳](reimburse.md)
+* [報帳](reimburse/reimburse.md)
    * [帳務系統](reimburse/system.md)
    * [薪水](reimburse/salary.md)
    * [差旅費](reimburse/travelfee.md)
