@@ -6,7 +6,7 @@
 請使用老師的帳號與密碼登入科技部網站：http://web1.most.gov.tw/。
 
 依據老師告知的計畫類型或名稱，在網站上尋找欲申請的項目。
-![](project_select.png)
+![](./figure/project_select.png)
 
 在此以最常申辦的專題研究計畫為例，點選[專題研究計畫]進入以下畫面：
 ![](project_select2.png)
