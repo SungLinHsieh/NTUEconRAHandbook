@@ -20,7 +20,7 @@
    * [支出分攤](reimburse/sharing.md)
 * [科技部計畫申請與結案](nscproject/nscproject.md)
    * [申請](nscproject/application.md)
-   * [結案](close.md)
+   * [結案](nscproject/close.md)
 * [報聘](hiring.md)
    * [hiring-NSC](hiring-nsc.md)
 * [公文交換](exchange.md)
