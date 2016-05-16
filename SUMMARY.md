@@ -21,7 +21,7 @@
 * [科技部計畫申請與結案](nscproject/nscproject.md)
    * [申請](nscproject/application.md)
    * [結案](nscproject/close.md)
-* [報聘](hiring.md)
+* [報聘](hiring/hiring.md)
    * [hiring-NSC](hiring/nsc.md)
 * [公文交換](exchange/exchange.md)
 * [助理室電話使用手冊](phonehandhook.md)
