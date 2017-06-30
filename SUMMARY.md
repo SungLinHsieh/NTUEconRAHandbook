@@ -1,7 +1,6 @@
 # Summary
 
 * [本書簡介](README.md)
-<<<<<<< HEAD
 * [就任](freshmen/freshmen.md)
 * [報帳](reimburse/reimburse.md)
    * [帳務系統](reimburse/system.md)
@@ -25,24 +24,5 @@
 * [報聘](hiring/hiring.md)
    * [hiring-NSC](hiring/nsc.md)
 * [公文交換](exchange/exchange.md)
-=======
-* [報帳](reimburse.md)
-   * [帳務系統](reimburse-system.md)
-   * [薪水](reimburse-salary.md)
-   * [差旅費](reimburse-travelfee.md)
-       * [簡單範例](reimburse-travel-ex1.md)
-       * [多地點範例](reimburse-travel-ex2.md)
-   * [一般花費](reimnurse-general.md)
-   * [蓋章](reimburse-stamp.md)
-   * [流用變更](reimburse-change.md)
-   * [支出分攤](reimburse-sharing.md)
-* [科技部計畫申請與結案](nscproject.md)
-   * [申請](application.md)
-   * [結案](close.md)
-* [報聘](hiring.md)
-   * [hiring-NSC](hiring-nsc.md)
-* [公文交換](exchange.md)
->>>>>>> 84be5c3635223679c854dfca130005ad39794706
-* [助理室電話使用手冊](phonehandhook.md)
-* [test](test.md)
+
 
