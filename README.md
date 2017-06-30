@@ -10,7 +10,7 @@
 若本書內容有誤，或是認為內容不完整覺得可以添加的人都可以跟我說。增加內容的方式可以是將文檔給我，或是直接參與編輯，可以先[聯絡我](mailto:slohsieh@gmail.com?subject=About RA Handbook)之後討論。
 
 協作作者：
- [謝松霖](mailto:slohsieh@gmail.com) 蔣文心 陳宜均 周亞萱 何宗祐 林彥竹
+ [謝松霖](mailto:slohsieh@gmail.com) 蔣文心 陳宜均 周亞萱 何宗祐 林彥竹 艾佳妏
  
 施工中：
 報聘、離職
